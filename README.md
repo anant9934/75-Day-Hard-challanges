@@ -28,8 +28,8 @@ I'm Anant Kumar and I've committed to pushing my coding skills by building, lear
 |  No.  |    Date     |         Project File Name          |   Language    |           Description                  |
 |:-----:|:-----------:|:----------------------------------:|:-------------:|:--------------------------------------:|
 |   1   | 26-10-2025  | day01_library_book_tracker.py      |   Python      | Library Book Tracker                   |
-|   2   | 27-10-2025  | day02_student_marks_manager.py     |    Python     | Student Marks Manager                  |
-|   3   |             |                                    |               |                                        |
+|   2   | 27-10-2025  | day02_student_marks_manager.py     |   Python      | Student Marks Manager                  |
+|   3   | 28-10-2025  | day03_movie_ratings_app.py         |   Python      | Movie Ratings App.                     |
 |   4   |             |                                    |               |                                        |
 |   5   |             |                                    |               |                                        |
 |   6   |             |                                    |               |                                        |
